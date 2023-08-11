@@ -6,7 +6,7 @@ func main(){
 
     var important Important
 
-    fmt.Println( important.Mobile("13001233167") )
+    fmt.Println( important.Mobile("13000000067") )
     
     fmt.Println( important.BankCard("6227003325370110828") )
     
